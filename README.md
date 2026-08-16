@@ -1,3 +1,4 @@
+![Explainable-AI-Forecast-Prism](images/03-Explainable-AI-Forecast-Prism.png)
 # Google Stock Analysis and Forecasting
 This project combines time series forecasting with Explainable AI (XAI) techniques to predict and interpret Google stock prices. We implement both traditional models (ARIMA, SARIMA) and deep learning models (LSTM, Transformer), enhanced with tools like SHAP, LIME, Attention, ICFTS, and DAVOTS to make model predictions more transparent and interpretable. The project includes an interactive Streamlit dashboard for visualizing forecasts and exploring model explainability through dynamic charts and XAI visual tools.
 
